@@ -6,5 +6,5 @@ nav: true
 nav_order: 5
 cv_pdf: CV_Roberto_Rubboli.pdf
 toc:
-  sidebar: left
+  sidebar: center
 ---
